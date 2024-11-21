@@ -1,3 +1,40 @@
 body {
     background-color: #fff;
+    border: solid #8f98c7 8px;
+    max-width: 1600px;
+    margin: 32px auto;
+}
+
+header {
+    text-align: center;
+    font-size: 32px;
+}
+
+.game {
+    align-items: center;
+}
+
+
+.container {
+    border: solid #03d7fc 4px;
+    width: 800px;
+    margin:8px auto;
+}
+
+#ans {
+    width: 400px;
+    height:400px;
+    margin: 0 auto; 
+}
+
+button {
+    width: 150px;
+    height: 30px;
+    font-size: 18px;
+}
+
+
+/* JS用のクラス */
+.blind {
+    background-color: black;
 }
