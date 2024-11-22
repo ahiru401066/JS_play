@@ -10,15 +10,11 @@ header {
     font-size: 32px;
 }
 
-.game {
-    align-items: center;
-}
-
-
 .container {
     border: solid #03d7fc 4px;
     width: 800px;
     margin:8px auto;
+    align-items: center;
 }
 
 #ans {
@@ -31,7 +27,9 @@ button {
     width: 150px;
     height: 30px;
     font-size: 18px;
+    margin: 0 auto;
 }
+
 
 
 /* JS用のクラス */
