@@ -1,6 +1,6 @@
 'use strict'
 
-console.log("HELLO");
+console.log("python");
 
 const ansElement = document.querySelector("#ans");
 const btnElement = document.querySelector("#start");
